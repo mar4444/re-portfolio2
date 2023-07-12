@@ -482,15 +482,7 @@ body {
   margin-top: 20px;
 }
 
-.text-input {
-  border-radius: 8px;
-  border: 1px solid #cfd8dc;
-  background: #fff;
-  width: 327px;
-  padding: 10px 0 10px 15px;
-  margin-top: 20px;
-}
-
+/* missing */
 .text-input::placeholder {
   color: var(--neutral-n-800, #172b4d);
   font-size: 17px;
